@@ -1,0 +1,9 @@
+body {
+    background-image: url('ModelS_69.jpg');
+    background-size: cover; /* Hintergrundbild auf die gesamte Seite skalieren */
+    background-position: center; /* Bild zentrieren */
+    background-repeat: no-repeat; /* Keine Wiederholung des Bildes */
+    height: 100vh; /* Die volle Höhe des Bildschirms */
+    margin: 0;
+    padding: 0;
+}
