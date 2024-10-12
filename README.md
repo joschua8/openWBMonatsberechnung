@@ -4,6 +4,11 @@ OpenWBLadelog zeigt die in einem Monat geladenen KWh summiert an und berechnet d
 Die Benutzeroberfläche ist unter **localhost:8080** erreichbar. 
 
 
+
+![image](https://github.com/user-attachments/assets/b372db82-bd66-4da0-9b84-bfc4a7fa2f8e)
+
+
+
 ## Inhaltsverzeichnis
 - [Systemanforderungen](#systemanforderungen)
 - [Installation](#installation)
@@ -17,7 +22,7 @@ Die Benutzeroberfläche ist unter **localhost:8080** erreichbar.
 
 ## Installation
 
-1. Lade die neueste Version der .jar-Datei von der [Public Release-Seite](LINK_ZUR_PUBLIC_RELEASE_SEITE) herunter.
+1. Lade die neueste Version der .jar-Datei von der [Public Release-Seite](https://github.com/joschua8/openWBMonatsberechnung/releases/tag/Public) herunter.
 2. Stelle sicher, dass du das JDK 17 installiert hast. Du kannst das JDK von der [offiziellen Oracle-Website](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) oder einer anderen Quelle herunterladen.
 3. Überprüfe, ob die `JAVA_HOME`-Umgebungsvariable korrekt auf das JDK-Verzeichnis gesetzt ist und die `bin`-Verzeichnisse im `PATH` enthalten sind.
 
